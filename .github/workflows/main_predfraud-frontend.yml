@@ -52,4 +52,4 @@ jobs:
           app-name: 'Predfraud-frontend'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B30943B732374020AE5AFE1B8EDE1922 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_977F405197544294BD6763CC591898B5 }}
